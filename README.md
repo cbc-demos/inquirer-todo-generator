@@ -2,6 +2,10 @@
 
 Command line app to generate a todolist web page.
 
+## Running the app
+
+Install by running `npm i`. Then, start the app with `node index.js`.
+
 ## Starter Code
 
 You can access the starter code for this activity here.
